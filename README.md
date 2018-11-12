@@ -1,7 +1,7 @@
 # วันนี้จะมาเขียนโปรแกรมพิมพ์ 1 - 10 ด้วยภาษาต่าง ๆ
 
 ## ภาษา GO
-[คลิกเพื่อดูโค๊ดภาษา GO][https://github.com/Kronwarin/Code-1-10/blob/master/GO.txt]
+[คลิกเพื่อดูโค๊ดภาษา GO](https://github.com/Kronwarin/Code-1-10/blob/master/GO.txt)
 ![Image](https://github.com/Kronwarin/Code-1-10/blob/master/GO1.png)
 <p>-เข้า google แล้วค้นหา WebOnline ใส่โค๊ดที่ให้มารันจะได้ตัวเลข 1-10 ได้แบบง่ายๆเป็นขั้นตอนที่ใครๆก็ทำได้ ยิ้ม:)
 

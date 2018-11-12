@@ -2,6 +2,6 @@
 
 ## ภาษา GO
 [Link](https://github.com/Kronwarin/Code-1-10/blob/master/GO.png) 
-![Image](http://www.thaiall.com/me/picme.jpg)
+![Image](https://github.com/Kronwarin/Code-1-10/blob/master/GO.png)
 
  
